@@ -49,4 +49,19 @@ El proyecto fue desarrollado con un enfoque en:
 ---
 
 ## 📂 Estructura del proyecto
+proyectoCalidadypruebasDeSofware/
+│
+├── backend/
+│ ├── src/
+│ ├── routes/
+│ ├── controllers/
+│ └── package.json
+│
+├── frontend/
+│ ├── assets/
+│ ├── css/
+│ ├── js/
+│ └── index.html
+│
+└── README.md
 
